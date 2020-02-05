@@ -2,7 +2,7 @@
 
 Консольное приложение, которое запрашивает имя пользователя, выводит все числа до указанного, задает простой вопрос по программированию.
 
-<script id="asciicast-WJjlT6VUAdMFk89Z8S1pNNvHr" src="https://asciinema.org/a/WJjlT6VUAdMFk89Z8S1pNNvHr.js" async></script>
+[![asciicast](https://asciinema.org/a/WJjlT6VUAdMFk89Z8S1pNNvHr.svg)](https://asciinema.org/a/WJjlT6VUAdMFk89Z8S1pNNvHr)
 
 ### Установка
 
