@@ -2,6 +2,8 @@
 
 Консольное приложение, которое запрашивает имя пользователя, выводит все числа до указанного, задает простой вопрос по программированию.
 
+[![asciicast](https://asciinema.org/a/WJjlT6VUAdMFk89Z8S1pNNvHr.svg)](https://asciinema.org/a/WJjlT6VUAdMFk89Z8S1pNNvHr)
+
 ### Установка
 
 Для работы приложения требуется **Docker** и **Docker Compose**.
